@@ -97,10 +97,8 @@ npm run lint
 4. Faça o Push para a Branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## 📝 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## 📧 Suporte
 
-Para suporte, envie um email para [SEU_EMAIL] ou abra uma issue no repositório.
+Para suporte, envie um email para davidlimabrenno@gmail.com ou abra uma issue no repositório.
